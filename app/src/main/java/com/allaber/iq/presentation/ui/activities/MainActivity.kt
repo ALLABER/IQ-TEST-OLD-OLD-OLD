@@ -1,7 +1,8 @@
-package com.allaber.iq
+package com.allaber.iq.presentation.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.allaber.iq.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
